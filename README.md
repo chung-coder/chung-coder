@@ -3,11 +3,11 @@
 </h1>
 
 - 🌟 Currently pursuing double master in Cloud and Network Infrastructures @ Université de Rennes 🇫🇷 & Aalto University 🇫🇮
-- 🚀 Looking for **2025 Summer** internship, and **New Grad** roles for 2026!
+- 🚀 Looking for **New Grad** roles for 2026!
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
-- 🏐 Love playing volleyball and outdoor activities!
+- 🤸🏻 Love hiking, yoga and outdoor activities!
 - 📮 Reachout me: peggy881203@gmail.com
-- 🙋 Google Cloud Support Engineer @ CloudMile, ex-SWE intern @ Microsoft
+- 🙋 ex-SDE Intern @ Amazon | Google Cloud Support Engineer @ CloudMile | ex-SWE intern @ Microsoft
 
 
 <h3 align="left">Connect with me:</h3>
