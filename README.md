@@ -2,8 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=0570E5&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ting-Chen+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </h1>
 
-- 🌟 Currently pursuing double master in Cloud and Network Infrastructures @ Université de Rennes 🇫🇷 & Aalto University 🇫🇮
 - 🚀 Looking for **New Grad** roles for 2026!
+- 🌟 Currently pursuing double master in Cloud and Network Infrastructures @ Université de Rennes 🇫🇷 & Aalto University 🇫🇮
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 - 🤸🏻 Love hiking, yoga and outdoor activities!
 - 📮 Reachout me: peggy881203@gmail.com
@@ -16,10 +16,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
 </p>
 
 
