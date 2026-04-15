@@ -7,7 +7,7 @@
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 - 🤸🏻 Love hiking, yoga and outdoor activities!
 - 📮 Reachout me: peggy881203@gmail.com
-- 🙋 ex-SDE Intern @ Amazon | Google Cloud Support Engineer @ CloudMile | ex-SWE intern @ Microsoft
+- 🙋 ex-SDE Intern @ Amazon | ex-Google Cloud Support Engineer @ CloudMile | ex-SWE intern @ Microsoft
 
 
 <h3 align="left">Connect with me:</h3>
