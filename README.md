@@ -6,7 +6,7 @@
 - 🌟 Currently pursuing double master in Cloud and Network Infrastructures @ Université de Rennes 🇫🇷 & Aalto University 🇫🇮
 - 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 - 🤸🏻 Love hiking, yoga and outdoor activities!
-- 📮 Reachout me: peggy881203@gmail.com
+- 📮 Reachout me: tingchen.yen123@gmail.com
 - 🙋 ex-SDE Intern @ Amazon | ex-Google Cloud Support Engineer @ CloudMile | ex-SWE intern @ Microsoft
 
 
